@@ -47,6 +47,14 @@ body {
 /* header end  */
 
 /* hero start  */
+
+.top {
+  font-size: 80px;
+  position: fixed;
+  bottom: 30px;
+  right: 80px;
+}
+
 #hero {
   padding: 100px 180px 0 0;
 }
